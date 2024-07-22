@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikaysharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="kartikaysharma2004" /> </p>
 
-- 🔭 I’m currently working on **My Skills**
+- 🔭 I’m currently enhancing my Web Development Skills.
 
-- 🌱 I’m currently learning **React, Tailwind CSS, etc.**
+- 🌱 I’m diving deeper into React, Tailwind CSS, and other modern technologies.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kartikaysharma2004/](https://github.com/Kartikaysharma2004/)
+- 👨‍💻 Explore my projects at [GitHub](https://github.com/Kartikaysharma2004/).
 
-- 💬 Ask me about **Frontend, Bootstrap**
+- 💬 Feel free to ask me about Frontend Development and Bootstrap.
 
-- 📫 How to reach me **kartikaysharmaa2004@gmail.com**
+- 📫 You can reach me at kartikaysharmaa2004@gmail.com.
 
-- ⚡ Fun fact **I use tabs over spaces**
+- ⚡ Fun fact: <b>I prefer tabs over spaces</b> for coding!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
