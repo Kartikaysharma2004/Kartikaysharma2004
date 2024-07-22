@@ -53,8 +53,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikaysharma2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikaysharma2004&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikaysharma2004&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikaysharma2004&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikaysharma2004&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikaysharma2004&background=000000&stroke=ffffff&ring=ffa500&fire=ffa500&currStreakNum=ffa500&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /></p>
