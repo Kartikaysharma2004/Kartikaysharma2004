@@ -45,6 +45,9 @@
    <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black" alt="React" />
   </a>
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&color=0081CB" alt="Material UI" />
+  </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
