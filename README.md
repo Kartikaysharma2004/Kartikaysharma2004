@@ -22,7 +22,7 @@
   <a href="mailto:kartikaysharmaa2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://t.me/kartikay2004" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.hackerrank.com/profile/kartikaysharmaa1" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://peerlist.io/kartikaysharma" target="blank"><img align="center" src="https://github-readme-badge.peerlist.io/api/kartikay" alt="Peerlist"  /></a>
+<a href="https://peerlist.io/kartikaysharma" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist-2EC866.svg?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,6 +45,9 @@
    <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black" alt="React" />
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</a>
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&color=0081CB" alt="Material UI" />
   </a>
