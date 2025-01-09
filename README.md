@@ -70,7 +70,7 @@
 
 <h3 align="left">📊 GitHub Activity:</h3>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikaysharma2004&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikaysharma2004&layout=donut&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikaysharma2004&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" /></p>
 
