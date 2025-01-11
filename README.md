@@ -54,6 +54,8 @@
   <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
   </a>
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /> </a>
+  <img src="https://img.shields.io/badge/lenis-%230077B5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiMwMDFBNUIiIC8+Cjx0ZXh0IHg9IjIwIiB5PSIzNyIgZmlsbD0id2hpdGUiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtZmFtaWx5PSJBcmlhbCI+TGVuaXM8L3RleHQ+Cjwvc3ZnPgo=" alt="Lenis" />
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
