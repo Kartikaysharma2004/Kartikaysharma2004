@@ -72,9 +72,19 @@
 
 <h3 align="left">📊 GitHub Activity:</h3>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikaysharma2004&layout=donut&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="Top Languages" /></p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikaysharma2004&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikaysharma2004&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" /></p>
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikaysharma2004&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikaysharma2004&background=000000&stroke=ffffff&ring=ffa500&fire=ffa500&currStreakNum=ffa500&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /></p>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikaysharma2004&theme=dark&hide_border=true" />
+</p>
+
 </div>
