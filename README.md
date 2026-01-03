@@ -70,21 +70,4 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Activity:</h3>
-  
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikaysharma2004&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikaysharma2004&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikaysharma2004&theme=dark&hide_border=true" />
-</p>
-
 </div>
