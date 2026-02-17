@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently enhancing my Web Development Skills.
 
-- 🌱 I’m diving deeper into React, Redux and other modern technologies.
+- 🌱 I’m diving deeper into Next.js and other modern technologies.
 
 - 👨‍💻 Explore my projects at [GitHub](https://github.com/Kartikaysharma2004/).
 
