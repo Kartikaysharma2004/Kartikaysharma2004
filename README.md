@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/kartikay-sharma2004/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kartikaysharmaa2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://t.me/kartikay2004" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.hackerrank.com/profile/kartikaysharmaa1" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.hackerrank.com/Kartikaysharma04" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 <a href="https://peerlist.io/kartikaysharma" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist-2EC866.svg?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"  /></a>
 </p>
 
