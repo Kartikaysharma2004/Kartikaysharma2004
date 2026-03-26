@@ -19,9 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kartikay-sharma2004/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kartikaysharmaa2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://t.me/kartikay2004" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.hackerrank.com/Kartikaysharma04" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.instagram.com/codebykartik/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dev.to/kartikaysharma2004" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a>
+<a href="mailto:kartikaysharmaa2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://t.me/kartikay2004" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.hackerrank.com/Kartikaysharma04" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 <a href="https://peerlist.io/kartikaysharma" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist-2EC866.svg?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"  /></a>
 </p>
 
