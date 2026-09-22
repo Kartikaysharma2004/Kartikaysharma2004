@@ -10,7 +10,7 @@
 
 - 👨‍💻 Explore my projects at [GitHub](https://github.com/Kartikaysharma2004/).
 
-- 💬 Feel free to ask me about Frontend Development and Bootstrap.
+- 💬 Feel free to ask me about Frontend Development and Libraries.
 
 - 📫 You can reach me at kartikaysharmaa2004@gmail.com.
 
